@@ -120,7 +120,7 @@ def calculate_nutrition(meal_list):
         print(f"--- {meal_title} ---")
         
         # Categories to scan for food items
-        library_cat = ['foods', 'protein', 'carbo', 'fat', 'vegetables', 'extras']
+        library_cat = ['foods', 'protein', 'carbo', 'fat', 'vegetables', 'extras', 'sauces']
         
         macro_source_list = categories_iteration(library_cat, meal_data)
 

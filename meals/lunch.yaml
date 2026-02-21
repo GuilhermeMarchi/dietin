@@ -39,3 +39,8 @@ vegetables:
 fat:
   - name: Butter_Irish_Rewe
     grams: 10   # 10g / 5
+  - name: Rasoil_Olive_Oil
+    grams: 5   # 10g / 5
+sauces:
+  - name: Schlagsahne_Rewe
+    grams: 40  # 100g / 5

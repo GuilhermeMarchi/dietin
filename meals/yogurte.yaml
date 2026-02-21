@@ -8,7 +8,9 @@ foods:
     grams: 25.0      # 25g (uma colherada)
   - name: Knackebrot
     grams: 30.0      # 15g (umas 2 ou 3 fatias grandes)
-
+carbo:
+  - name: Zuckar
+    grams: 15.0      
 ---
 
 meal: "Whey_maquina"

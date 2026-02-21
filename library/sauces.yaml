@@ -1,0 +1,10 @@
+Schlagsahne_Rewe:
+  macros:
+    protein: 2.3
+    fat: 33.0
+    carbohydrate: 3.2
+    fiber: 0.0
+  distributions:
+    carbohydrate:
+      sugars: 1.0
+      complex: 0.0
