@@ -153,5 +153,12 @@ def calculate_nutrition(meal_list):
 if __name__ == "__main__":
     # Agora você pode passar o NOME EXATO que está dentro do yaml
     # Exemplo: Se no lunch.yaml está 'meal: Marmita de Wrap (1/5)'
-    my_day = ['Marmita de Wrap (1/5)', 'Marmita de Salmão (1/5)', 'Iogurte Turbinado', 'Pao_com_ovo', 'Whey_maquina'] 
+    #my_day = ['Marmita de Wrap (1/5)', 'Marmita de Salmão (1/5)', 'Iogurte Turbinado', 'Pao_com_ovo', 'Whey_maquina'] 
+    my_day = ['MP_Porco_Arroz_Creme (1/5)', 
+              'MP_Porco_Arroz_Creme (1/5)', 
+              'Iogurte', 
+              'Banana',
+              'Toast_com_ovo', 
+              'Whey_maquina'] 
+
     calculate_nutrition(my_day)

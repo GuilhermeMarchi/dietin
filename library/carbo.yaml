@@ -17,7 +17,37 @@ Buttertoast:
     fiber: 3.5 
   distributions: 
     carbohydrate: 
-      sugars: 0.05 # 2.5g de açúcar em 48g totais complex: 0.95
+      sugars: 0.05
+
+ToastBrotchen:
+  macros: 
+    protein: 9.6 
+    fat: 1.0
+    carbohydrate: 42.0 
+    fiber: 3.0
+  distributions: 
+    carbohydrate: 
+      sugars: 0.04 
+
+Ciabatta_rewe:
+  macros: 
+    protein: 8.1
+    fat: 2.5
+    carbohydrate: 50.0 
+    fiber: 3.5
+  distributions: 
+    carbohydrate: 
+      sugars: 0.04 
+
+Pizza_Tuna:
+  macros: 
+    protein: 10
+    fat: 10
+    carbohydrate: 23.0 
+    fiber: 3.5
+  distributions: 
+    carbohydrate: 
+      sugars: 0.04 
 
 Cross_potato: # Baseado na foto (181kcal/100g)
   macros:
@@ -35,6 +65,17 @@ Imperial_Rice_Rewe: # Arroz branco cozido (Pacote de 1kg)
     protein: 7.5
     fat: 1.3
     carbohydrate: 75.0
+    fiber: 1.6
+  distributions:
+    carbohydrate:
+      sugars: 0.0133      # 1/75 = 0.0133 arredondado
+      complex: 0.9867
+
+Indian_Rice_Blue: # Arroz branco cozido (Pacote de 1kg)
+  macros:
+    protein: 9.0
+    fat: 1.0
+    carbohydrate: 78.0
     fiber: 1.6
   distributions:
     carbohydrate:
@@ -62,3 +103,25 @@ Zuckar:
     carbohydrate:
       sugars: 0.97
       complex: 0.03
+
+Banana:
+  macros:
+    protein: 1.3
+    fat: 0.3
+    carbohydrate: 23.0
+    fiber: 2.6
+  distributions:
+    carbohydrate:
+      sugars: 0.53
+      complex: 0.47
+
+Batata:
+  macros:
+    protein: 2.0
+    fat: 0.1
+    carbohydrate: 17.0
+    fiber: 2.3
+  distributions:
+    carbohydrate:
+      sugars: 0.05
+      complex: 0.95

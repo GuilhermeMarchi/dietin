@@ -5,3 +5,40 @@ protein:
 carbo:
   - name: Buttertoast
     grams: 50
+
+---
+
+meal: Toast_com_ovo
+protein:
+  - name: Ovo_Unidade
+    grams: 110
+carbo:
+  - name: ToastBrotchen
+    grams: 120
+
+---
+
+meal: Toast_com_Butterkase
+protein:
+  - name: ButterKase
+    grams: 40
+carbo:
+  - name: ToastBrotchen
+    grams: 120
+
+---
+
+meal: Ciadameianoite
+protein:
+  - name: Ovo_Unidade
+    grams: 110
+carbo:
+  - name: Ciabatta_rewe
+    grams: 150
+
+---
+
+meal: Banana
+carbo:
+  - name: Banana
+    grams: 150

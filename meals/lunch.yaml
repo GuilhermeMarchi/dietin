@@ -44,3 +44,67 @@ fat:
 sauces:
   - name: Schlagsahne_Rewe
     grams: 40  # 100g / 5
+
+---
+
+meal: MP_Porco_batata (1/5)
+protein:
+  - name: Schwein_netto
+    grams: 200  # 900g / 5
+carbo:
+  - name: Batata
+    grams: 240  # 250g / 5
+fat:
+  - name: Rasoil_Olive_Oil
+    grams: 5   # 10g / 5
+sauces:
+  - name: Schlagsahne_Rewe
+    grams: 1  # 100g / 5
+
+---
+
+meal: MP_Porco_Arroz_Creme (1/5)
+protein:
+  - name: Schwein_netto
+    grams: 160  # 900g / 5
+carbo:
+  - name: Indian_Rice_Blue
+    grams: 50  # 250g / 5
+fat:
+  - name: Rasoil_Olive_Oil
+    grams: 5   # 10g / 5
+sauces:
+  - name: Koch_creme_l_Rewe
+    grams: 50  # 100g / 5
+
+---
+
+meal: Salmao_ciabatta
+protein:
+  - name: Lachs
+    grams: 215  # 900g / 5
+carbo:
+  - name: Ciabatta_rewe
+    grams: 150  # 250g / 5
+fat:
+  - name: Rasoil_Olive_Oil
+    grams: 5   # 10g / 5
+sauces:
+  - name: Schlagsahne_Rewe
+    grams: 1  # 100g / 5
+
+---
+
+meal: Pizza_Tuna
+protein:
+  - name: Lachs
+    grams: 1  # 900g / 5
+carbo:
+  - name: Pizza_Tuna
+    grams: 350  # 250g / 5
+fat:
+  - name: Rasoil_Olive_Oil
+    grams: 1   # 10g / 5
+sauces:
+  - name: Schlagsahne_Rewe
+    grams: 1  # 100g / 5

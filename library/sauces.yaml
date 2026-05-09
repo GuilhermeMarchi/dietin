@@ -8,3 +8,14 @@ Schlagsahne_Rewe:
     carbohydrate:
       sugars: 1.0
       complex: 0.0
+
+Koch_creme_l_Rewe:
+  macros:
+    protein: 1.3
+    fat: 7.4
+    carbohydrate: 5.1
+    fiber: 0.0
+  distributions:
+    carbohydrate:
+      sugars: 1.0
+      complex: 0.0

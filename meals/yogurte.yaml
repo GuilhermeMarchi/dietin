@@ -11,6 +11,16 @@ foods:
 carbo:
   - name: Zuckar
     grams: 15.0      
+
+meal: "Iogurte"
+foods:
+  - name: Iogurte_Ja_Sahne
+    grams: 125.0      # 100g (um pouco menos de meio pote grande)
+  - name: Müsli_Rewe
+    grams: 50.0      # 50g
+carbo:
+  - name: Zuckar
+    grams: 20.0    
 ---
 
 meal: "Whey_maquina"

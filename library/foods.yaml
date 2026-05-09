@@ -11,6 +11,17 @@ Iogurte_Ja_Sahne: # O pote branco "Ja!"
       sugars: 1.0       # 4,9g de carbo, sendo 4,9g açúcar (100%)
       complex: 0.0
 
+Iogurte_Ja_Light: # O pote branco "Ja!"
+  macros:
+    protein: 6.0
+    fat: 2.0
+    carbohydrate: 4.9
+    fiber: 0.0
+  distributions:
+    carbohydrate:
+      sugars: 1.0       # 4,9g de carbo, sendo 4,9g açúcar (100%)
+      complex: 0.0
+
 Aprikose_Triple: # O pote de vidro (Geléia/Calda?)
   macros:
     protein: 0.7
